@@ -28,7 +28,7 @@ under the License.
         <version>30</version>
         <relativePath>../../pom/maven/maven-skins/pom.xml</relativePath>
     </parent>
-    <groupId>com.github.spyhunter</groupId>
+    <groupId>com.github.spyhunter99</groupId>
     <artifactId>maven-fluido-darkmode-skin</artifactId>
     <version>1.6.3-SNAPSHOT</version>
 
