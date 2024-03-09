@@ -30,7 +30,7 @@ under the License.
     </parent>
     <groupId>com.github.spyhunter99</groupId>
     <artifactId>maven-fluido-darkmode-skin</artifactId>
-    <version>1.6.1</version>
+    <version>1.6.2-SNAPSHOT</version>
 
     <name>Apache Maven Fluido Skin</name>
     <description>The Apache Maven Fluido Skin is an Apache Maven site skin
@@ -41,7 +41,7 @@ under the License.
         <connection>scm:git:https://github.com/spyhunter99/maven-fluido-darkmode-skin.git</connection>
         <developerConnection>scm:git:https://github.com/spyhunter99/maven-fluido-darkmode-skin.git</developerConnection>
         <url>https://github.com/spyhunter99/maven-fluido-darkmode-skin.git</url>
-        <tag>maven-fluido-darkmode-skin-1.6.1</tag>
+        <tag>HEAD</tag>
     </scm>
  
     <issueManagement>
