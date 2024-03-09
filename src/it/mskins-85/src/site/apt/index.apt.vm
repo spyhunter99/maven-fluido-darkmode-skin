@@ -34,3 +34,23 @@ ${project.name}
 * Actual Configuration
 
 %{snippet|id=skin-custom-config|file=${project.basedir}/src/site/site.xml}
+
+Here's a list test
+
+	* Value 1
+	
+	* Value 2
+	
+	* Hello world
+
+
+Here's a numbered list
+
+	[[1]] step 1
+	
+	[[2]] step 2
+	
+	[[3]] step 3
+
+
+Etc

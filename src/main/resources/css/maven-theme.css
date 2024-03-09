@@ -104,11 +104,11 @@ tt {
   background-color:#fee9cc;color:rgba(0, 0, 0, 0.75);padding:1px 3px;
 }
 
-/* avoid greyed list items */
+/* avoid greyed list items
 li {
   color:#404040;
 }
-
+ */
 /* avoid transparent background of table */
 table.zebra-striped {
   background-color:#FFF
